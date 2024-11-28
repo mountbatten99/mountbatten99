@@ -1,16 +1,43 @@
-## Hi there 👋
+# Mountbatten 👋
 
-<!--
-**mountbatten99/mountbatten99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `blockchain researcher • technical writer • web3 explorer`
 
-Here are some ideas to get you started:
+## About Me
+`currently:`
+- 📈 Researching blockchain scalability solutions
+- 🤖 Exploring AI applications in crypto trading
+- ✍️ Writing about Web3 and emerging tech
+- 🔗 Building in the decentralized space
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`skills & tools:`
+```
+blockchain     █████████████████████
+technical docs █████████████████████
+defi research  ████████████████████
+ai analysis    ███████████████████
+```
+
+## Focus Areas
+- 🔮 Blockchain Technology & DeFi
+- 🧠 Artificial Intelligence & ML
+- 📊 Market Analysis & Research
+- 📝 Technical Documentation
+- 🚀 Emerging Tech Trends
+
+## working on:
+- Researching L2 scaling solutions
+- Creating Web3 educational content
+- Analyzing DeFi protocols
+- Building community resources
+
+## Stats & Activity
+```
+repositories: blockchain • docs • tools • research
+focus: defi • blockchain • ai • technical writing
+```
+
+> *Decoding the digital frontier, one block at a time* 🌐
+
+---
+💡 Open to collaborate on blockchain and AI projects
+💭 Ask me about: Blockchain, DeFi, Technical Writing
