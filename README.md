@@ -13,7 +13,7 @@
 ```
 blockchain     █████████████████████
 technical docs █████████████████████
-defi research  ████████████████████
+defi research  █████████████████████
 ai analysis    ███████████████████
 ```
 
